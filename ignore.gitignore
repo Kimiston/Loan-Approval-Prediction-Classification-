@@ -1,0 +1,10 @@
+venv/
+.env/
+.venv/
+env/
+.conda/
+.pyenv/
+.pip-wheel-metadata/
+poetry.lock
+Pipfile.loc
+*.dll
